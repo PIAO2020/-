@@ -1,0 +1,5 @@
+<!--logs.wxml-->
+<view>
+<button bindtap="xj">新建</button>
+<image src="/pages/images - 副本/背景4.jpg" class="bj"></image>
+</view>

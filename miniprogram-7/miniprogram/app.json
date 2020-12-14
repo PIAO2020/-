@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "miniprogram/pages/index/index",
+    "miniprogram/pages/logs/logs",
+    "miniprogram/pages/inmax/inmax",
+    "miniprogram/pages/xj/xj",
+    "miniprogram/pages/utils/util"
+  ],
+  "tabBar": {
+    "color": "000",
+    "selectedColor": "0f0",
+    "backgroundColor": "fff",
+    "list": [
+      {
+        "pagePath": "miniprogram/pages/index/index",
+        "text": "首页",
+        "iconPath": "/miniprogram/pages/images/0.png",
+        "selectedIconPath": "/miniprogram/pages/images/1.png"
+      },
+      {
+        "pagePath": "miniprogram/pages/logs/logs",
+        "text": "添加",
+        "iconPath": "/miniprogram/pages/images/3.jpg",
+        "selectedIconPath": "/miniprogram/pages/images/5.jpg"
+      },
+      {  
+        "pagePath": "miniprogram/pages/inmax/inmax",
+        "text": "我的",
+        "iconPath": "/miniprogram/pages/images/9.jpg",
+        "selectedIconPath": "/miniprogram/pages/images/8.jpg"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3aa8db",
+    "navigationBarTitleText": "记忆邮新",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

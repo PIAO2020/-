@@ -1,0 +1,11 @@
+<!--miniprogram/pages/inmax/inmax.wxml-->
+<view>
+  <image src="/miniprogram/pages/images/15.jpg" class="bj" mode="aspectFill"></image>
+  <view class='a' wx:for="{{ne}}">
+    <view >序号：{{index+1}}</view>
+    <view>{{item.time}}</view>
+    <view >{{item.thing}}</view>
+  </view>
+  <button bindtap="xianshi">查看</button>
+  <button bindtap="shuaxin">刷新</button>
+</view>

@@ -1,0 +1,4 @@
+<!--pages/inmax/inmax.wxml-->
+<view>
+<image src="/pages/images - 副本/15.jpg" class="bj"></image>
+</view>

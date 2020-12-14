@@ -1,0 +1,13 @@
+<!--miniprogram/pages/xj/xj.wxml-->
+<form bindsubmit='res'>
+  <image src="/miniprogram/pages/images/背景2.jpg" class="bj" mode="aspectFill"></image>
+  <view class="section">
+    <input type="number" name="time" placeholder="请输入时间..." bindinput="time" class="shuru"/>
+   <button bindtap="post">上传</button>
+     <input type="text" name="thing" placeholder="请输入..." bindinput="chaos"class="shuru2"/>
+     <button bindtap="post1">上传</button> 
+  </view>
+  <view><button form-type='submit' class="annui">提交</button></view>
+</form>
+
+

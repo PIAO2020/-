@@ -1,0 +1,5 @@
+<!--miniprogram/pages/index/index.wxml-->
+<view>
+<image src="/miniprogram/pages/images/656.jpg" class="bj"></image>
+ <button bindtap="start">start</button>
+</view>

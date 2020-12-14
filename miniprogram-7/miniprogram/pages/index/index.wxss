@@ -1,0 +1,7 @@
+/**index.wxss**/
+
+.bj{
+  height: 11cm;
+  margin-top: 0cm;
+  z-index: -1;
+  }

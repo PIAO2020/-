@@ -1,0 +1,5 @@
+<!--miniprogram/pages/logs/logs.wxml-->
+<view>
+  <image src="/miniprogram/pages/images/背景4.jpg" class="bj" mode="aspectFill"></image>
+<button bindtap="xj" class="annui">新建</button>
+</view>

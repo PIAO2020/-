@@ -1,0 +1,16 @@
+/* miniprogram/pages/inmax/inmax.wxss */
+.bj{
+  height: 11cm;
+  margin-top: 0cm;
+  z-index: -1;
+  }
+  .xianshi{
+    flex-direction: column;
+  }
+  .bj{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: 100%,100%;
+    z-index: -1;
+    }

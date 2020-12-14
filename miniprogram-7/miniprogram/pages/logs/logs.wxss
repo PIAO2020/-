@@ -1,0 +1,10 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.bj{
+  height: 11cm;
+  margin-top: 0cm;
+  z-index: -1;
+  }
